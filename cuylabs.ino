@@ -4,7 +4,7 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-WebServer server(80);
+WebServer server(https://dedekhumaedi.github.io/lampu/);
 
 const char* ssid = "yahhhh";
 const char* password = "diahbyh18$";
